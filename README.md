@@ -63,9 +63,8 @@ It is a quiet, infrastructural offering.
 ---
 
 ## ■ Concept Paper  
-**PDF (Version 1.1):**  
-*(Upload the paper and link it here)*
-
+**PDF (Version 2.0):**  
+[Harbor Project Concept Paper v2.0](https://github.com/Harbor-Project/Harbor-Project-Concept/blob/main/Harbor_Project_Concept_Paper_v2_0.pdf)
 ---
 
 ## ■ Licensing  
